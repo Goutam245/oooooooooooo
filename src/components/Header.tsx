@@ -48,7 +48,7 @@ export const Header = ({ activeStep, onStepSelect, onAddToGoBag }: HeaderProps) 
               className="flex items-center"
             >
               <img 
-                src="/public/images/logo.png" 
+                src="/images/logo.png" 
                 alt="Riot Garage Logo"
                 className="h-16 md:h-20 lg:h-24 w-auto object-contain"
                 onError={(e) => {
