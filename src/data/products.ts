@@ -185,8 +185,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Apply directly to stain. Allow to penetrate. Agitate if needed. Rinse clean.',
     waypoint: 'grip-purge',
     waypointDescription: 'Inserts between GRIP (01) and PURGE (02)',
-    smallImage: '/src/images/x-extraction.jpg',
-    largeImage: '/src/images/X EXTRACTION-Front-(Updated).png',
+    smallImage: '/public/images/x-extraction.jpg',
+    largeImage: '/public/images/X EXTRACTION-Front-(Updated).png',
   },
   {
     id: 'x-blaqout',
@@ -200,8 +200,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Apply to adhesive. Allow to soften. Wipe away. Clean area with standard wash.',
     waypoint: 'grip-purge',
     waypointDescription: 'Inserts between GRIP (01) and PURGE (02)',
-    smallImage: '/src/images/x-blaqout.jpg',
-    largeImage: '/src/images/X BLAQOUT-Front-(Updated).png',
+    smallImage: '/public/images/x-blaqout.jpg',
+    largeImage: '/public/images/X BLAQOUT-Front-(Updated).png',
   },
   {
     id: 'x-fallout',
@@ -215,8 +215,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Spray onto cool, wet surface. Allow to dwell until purple. Rinse thoroughly.',
     waypoint: 'assault-clarity',
     waypointDescription: 'Inserts between ASSAULT (03) and CLARITY (04)',
-    smallImage: '/src/images/x-fallout.jpg',
-    largeImage: '/src/images/X FALLOUT-Front-(Updated).png',
+    smallImage: '/public/images/x-fallout.jpg',
+    largeImage: '/public/images/X FALLOUT-Front-(Updated).png',
   },
   {
     id: 'x-field',
@@ -245,8 +245,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Apply to cured SHIELD layer. Spread thin. Allow to flash. Buff to perfection.',
     waypoint: 'after-shield',
     waypointDescription: 'Applies after SHIELD (08)',
-    smallImage: '/src/images/z-fortify.jpg',
-    largeImage: '/src/images/z-fortify.jpg',
+    smallImage: '/public/images/z-fortify.jpg',
+    largeImage: '/public/images/Z FORTIFY-Front-(Updated).png',
   },
 ];
 
