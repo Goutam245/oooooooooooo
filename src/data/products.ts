@@ -45,9 +45,9 @@ export const riotLineProducts: RiotProduct[] = [
     capabilities: 'Safely lifts contamination without contact, reducing wash-induced scratches.',
     strategicIntent: 'Minimize physical agitation during the wash phase by pre-treating organic contamination.',
     deploymentProtocol: 'Apply to dry or wet surface. Allow 3-5 minutes dwell time. Rinse before wash.',
-    smallImage: '/public/images/step-02-purge.png',
-    largeImage: '/public/images/STEP 01 â__ PURGE-Front (Updated).png',
-    compassImage: '/public/images/8 Step Logo.jpg',
+    smallImage: '/images/step-02-purge.png',
+    largeImage: '/images/STEP 01 â__ PURGE-Front (Updated).png',
+    compassImage: '/images/8 Step Logo.jpg',
   },
   {
     id: 'assault',
@@ -60,9 +60,9 @@ export const riotLineProducts: RiotProduct[] = [
     capabilities: 'Creates rich foam, encapsulates dirt, provides slick surface for wash media to glide.',
     strategicIntent: 'Execute the primary wash phase with maximum cleaning efficiency and scratch prevention.',
     deploymentProtocol: 'Dilute 1:500 in foam cannon or 1:1000 in bucket. Work panel by panel. Rinse before drying.',
-    smallImage: '/public/images/step-03-assault.png',
-    largeImage: '/public/images/STEP 02 â__ ASSAULT-Front  (Updated).png',
-    compassImage: '/public/images/8 Step Logo (6).png',
+    smallImage: '/images/step-03-assault.png',
+    largeImage: '/images/STEP 02 â__ ASSAULT-Front  (Updated).png',
+    compassImage: '/images/8 Step Logo (6).png',
   },
   {
     id: 'clarity',
@@ -75,9 +75,9 @@ export const riotLineProducts: RiotProduct[] = [
     capabilities: 'Removes water spots, oily films, and fingerprints. Leaves crystal-clear finish.',
     strategicIntent: 'Restore optical clarity to all glass surfaces for improved visibility and aesthetics.',
     deploymentProtocol: 'Spray onto glass or microfiber. Wipe in overlapping pattern. Buff with dry towel.',
-    smallImage: '/public/images/step-04-clarity.png',
-    largeImage: '/public/images/STEP 03 â__ CLARITY-Front  (Updated).png',
-    compassImage: '/public/images/8 Step Logo (5).png',
+    smallImage: '/images/step-04-clarity.png',
+    largeImage: '/images/STEP 03 â__ CLARITY-Front  (Updated).png',
+    compassImage: '/images/8 Step Logo (5).png',
   },
   {
     id: 'surface',
@@ -90,9 +90,9 @@ export const riotLineProducts: RiotProduct[] = [
     capabilities: 'Cleans plastic, vinyl, leather, and fabric. Non-greasy formula.',
     strategicIntent: 'Prepare interior surfaces for protection by removing all contamination.',
     deploymentProtocol: 'Spray onto surface or applicator. Wipe in consistent direction. Allow to dry.',
-    smallImage: '/public/images/step-05-surface.png',
-    largeImage: '/public/images/STEP 04 â__ SURFACE-Front  (Updated).png',
-    compassImage: '/public/images/8 Step Logo (4).png',
+    smallImage: '/images/step-05-surface.png',
+    largeImage: '/images/STEP 04 â__ SURFACE-Front  (Updated).png',
+    compassImage: '/images/8 Step Logo (4).png',
   },
   {
     id: 'grip',
@@ -105,10 +105,9 @@ export const riotLineProducts: RiotProduct[] = [
     capabilities: 'Deep cleans rubber surfaces, removes browning, prepares tires for fresh dressing application.',
     strategicIntent: 'Establish a clean foundation on all rubber components before the full detail protocol begins.',
     deploymentProtocol: 'Spray directly onto dry tire surface. Agitate with stiff brush. Rinse thoroughly. Repeat for heavily soiled tires.',
-    smallImage: '/public/images/step-01-grip.png',
-    // largeImage: '/public/images/STEP 05 â__ GRIP-Front (Updated).png',
-    largeImage: '/public/images/STEP 05 â__ GRIP-Front   (Updated).png',
-    compassImage: '/public/images/STEP 08.png',
+    smallImage: '/images/step-01-grip.png',
+    largeImage: '/images/STEP 05 â__ GRIP-Front   (Updated).png',
+    compassImage: '/images/STEP 08.png',
   },
   {
     id: 'revive',
@@ -121,9 +120,9 @@ export const riotLineProducts: RiotProduct[] = [
     capabilities: 'Provides matte or satin finish options. UV protection. Anti-static properties.',
     strategicIntent: 'Defend interior surfaces against aging, fading, and environmental damage.',
     deploymentProtocol: 'Apply to clean surface with applicator pad. Spread evenly. Buff off excess.',
-    smallImage: '/public/images/step-06-revive.jpg',
-    largeImage: '/public/images/STEP 06 â__ REVIVE-Front  (Updated).png',
-    compassImage: '/public/images/8 Step Logo (3).png',
+    smallImage: '/images/step-06-revive.jpg',
+    largeImage: '/images/STEP 06 â__ REVIVE-Front  (Updated).png',
+    compassImage: '/images/8 Step Logo (3).png',
   },
   {
     id: 'lustre',
@@ -136,9 +135,9 @@ export const riotLineProducts: RiotProduct[] = [
     capabilities: 'Intensifies color depth, adds hydrophobic layer, extends protection longevity.',
     strategicIntent: 'Maximize visual impact and tactile slickness of the exterior finish.',
     deploymentProtocol: 'Apply to wet or dry surface. Spread thin. Buff to brilliant shine.',
-    smallImage: '/public/images/step-07-lustre.jpg',
-    largeImage: '/public/images/STEP 07 â__ LUSTRE-Front  (Updated).png',
-    compassImage: '/public/images/8 Step Logo (2).png',
+    smallImage: '/images/step-07-lustre.jpg',
+    largeImage: '/images/STEP 07 â__ LUSTRE-Front  (Updated).png',
+    compassImage: '/images/8 Step Logo (2).png',
   },
   {
     id: 'shield',
@@ -151,9 +150,9 @@ export const riotLineProducts: RiotProduct[] = [
     capabilities: 'Creates water-beading surface, UV protection, enhances existing coatings.',
     strategicIntent: 'Establish the final protective barrier against environmental contamination.',
     deploymentProtocol: 'Mist onto surface. Spread with microfiber. Buff to streak-free finish.',
-    smallImage: '/public/images/step-08-shield.jpg',
-    largeImage: '/public/images/STEP 08 â__ SHIELD-Front  (Updated).png',
-    compassImage: '/public/images/8 Step Logo (1).png',
+    smallImage: '/images/step-08-shield.jpg',
+    largeImage: '/images/STEP 08 â__ SHIELD-Front  (Updated).png',
+    compassImage: '/images/8 Step Logo (1).png',
   },
 ];
 
@@ -170,8 +169,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Apply to worst areas first. Allow extended dwell time. Pressure rinse before wash.',
     waypoint: 'grip-purge',
     waypointDescription: 'Inserts between GRIP (01) and PURGE (02)',
-    smallImage: 'placeholder:x-dirty',
-    largeImage: 'placeholder:x-dirty',
+    smallImage: '/images/x-dirty.jpg',
+    largeImage: '/images/X-DIRTY-Front.png',
   },
   {
     id: 'x-extraction',
@@ -185,8 +184,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Apply directly to stain. Allow to penetrate. Agitate if needed. Rinse clean.',
     waypoint: 'grip-purge',
     waypointDescription: 'Inserts between GRIP (01) and PURGE (02)',
-    smallImage: '/public/images/x-extraction.jpg',
-    largeImage: '/public/images/X EXTRACTION-Front-(Updated).png',
+    smallImage: '/images/x-extraction.jpg',
+    largeImage: '/images/X EXTRACTION-Front-(Updated).png',
   },
   {
     id: 'x-blaqout',
@@ -200,8 +199,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Apply to adhesive. Allow to soften. Wipe away. Clean area with standard wash.',
     waypoint: 'grip-purge',
     waypointDescription: 'Inserts between GRIP (01) and PURGE (02)',
-    smallImage: '/public/images/x-blaqout.jpg',
-    largeImage: '/public/images/X BLAQOUT-Front-(Updated).png',
+    smallImage: '/images/x-blaqout.jpg',
+    largeImage: '/images/X BLAQOUT-Front-(Updated).png',
   },
   {
     id: 'x-fallout',
@@ -215,8 +214,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Spray onto cool, wet surface. Allow to dwell until purple. Rinse thoroughly.',
     waypoint: 'assault-clarity',
     waypointDescription: 'Inserts between ASSAULT (03) and CLARITY (04)',
-    smallImage: '/public/images/x-fallout.jpg',
-    largeImage: '/public/images/X FALLOUT-Front-(Updated).png',
+    smallImage: '/images/x-fallout.jpg',
+    largeImage: '/images/X FALLOUT-Front-(Updated).png',
   },
   {
     id: 'x-field',
@@ -230,8 +229,8 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Dilute in bucket. Soak panel. Wipe with plush microfiber. Dry immediately.',
     waypoint: 'replace-grip-purge',
     waypointDescription: 'REPLACES GRIP (01) & PURGE (02)',
-    smallImage: 'placeholder:x-field',
-    largeImage: 'placeholder:x-field',
+    smallImage: '/images/x-field.jpg',
+    largeImage: '/images/X-FIELD-Front.png',
   },
   {
     id: 'z-fortify',
@@ -245,15 +244,15 @@ export const interventionProducts: InterventionProduct[] = [
     deploymentProtocol: 'Apply to cured SHIELD layer. Spread thin. Allow to flash. Buff to perfection.',
     waypoint: 'after-shield',
     waypointDescription: 'Applies after SHIELD (08)',
-    smallImage: '/public/images/z-fortify.jpg',
-    largeImage: '/public/images/Z FORTIFY-Front-(Updated).png',
+    smallImage: '/images/z-fortify.jpg',
+    largeImage: '/images/Z FORTIFY-Front-(Updated).png',
   },
 ];
 
 export const getCompassImage = (activeStep: number | null): string => {
-  if (activeStep === null) return '/src/images/8 Step Logo.jpg';
+  if (activeStep === null) return '/images/8 Step Logo.jpg';
   const product = riotLineProducts.find(p => p.step === activeStep);
-  return product?.compassImage || '/src/images/8 Step Logo.jpg';
+  return product?.compassImage || '/images/8 Step Logo.jpg';
 };
 
 // Check if image is a placeholder
